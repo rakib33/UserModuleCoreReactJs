@@ -1,0 +1,20 @@
+https://beta.reactjs.org/learn/passing-props-to-a-component
+https://www.freecodecamp.org/news/pass-data-between-components-in-react/
+https://javascript.plainenglish.io/communication-patterns-in-react-30df2de702eb
+
+TL;DR
+Props for parent->child communication
+Callback props for child->parent communication
+Common ancestor: does not scale, almost an anti-pattern
+Event bubbling: implicit coupling, clearly an anti-pattern
+Via the server: why not after all?
+React Context, what else?
+Building on React Context, let’s add some contracts
+PubSub
+
+
+
+
+https://eduandabhi.medium.com/react-communication-between-two-sibling-components-using-react-hooks-5835ea3c3d9f
+
+https://www.pluralsight.com/guides/how-to-handle-communication-between-parent-and-child-components-in-reactjs
